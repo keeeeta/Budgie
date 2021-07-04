@@ -1,0 +1,763 @@
+
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x: hidden; overflow-y:visible; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1920px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_landing_page_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+#_bg__landing_page_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(229,229,229,1);
+}
+
+#backdrop {
+	top: -113px;
+	left: -159.58px;
+	width: 2195.58px;
+	height: 1771px;
+}
+#background {
+	top: 0px;
+	left: 16px;
+	width: 2180px;
+	height: 1771px;
+}
+
+#grid_image {
+	top: 113px;
+	left: 20px;
+	width: 2160px;
+	height: 1080px;
+}
+
+#background_lines {
+	top: 0px;
+	left: 0px;
+	width: 2064px;
+	height: 1771px;
+}
+#group_5 {
+	top: 301px;
+	left: 0px;
+	width: 670px;
+	height: 1470px;
+}
+
+#rectangle_7 {
+	top: 401px;
+	left: 105px;
+	width: 120px;
+	height: 853px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_8 {
+	top: 216px;
+	left: 243px;
+	width: 83px;
+	height: 1254px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_9 {
+	top: 103px;
+	left: 0px;
+	width: 87px;
+	height: 1273px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_4 {
+	top: 0px;
+	left: 449px;
+	width: 120px;
+	height: 1074px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_5 {
+	top: 216px;
+	left: 587px;
+	width: 83px;
+	height: 945px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_6 {
+	top: 122px;
+	left: 344px;
+	width: 87px;
+	height: 945px;
+	background:rgba(196,203,183,1);
+}
+
+#group_4 {
+	top: 0px;
+	left: 693px;
+	width: 674px;
+	height: 1470px;
+}
+
+#rectangle_7_ek1 {
+	top: 401px;
+	left: 109px;
+	width: 120px;
+	height: 853px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_8_ek1 {
+	top: 216px;
+	left: 247px;
+	width: 83px;
+	height: 1254px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_9_ek1 {
+	top: 106px;
+	left: 0px;
+	width: 87px;
+	height: 1273px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_4_ek1 {
+	top: 0px;
+	left: 453px;
+	width: 120px;
+	height: 1280px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_5_ek1 {
+	top: 216px;
+	left: 591px;
+	width: 83px;
+	height: 1019px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_6_ek1 {
+	top: 122px;
+	left: 348px;
+	width: 87px;
+	height: 1105px;
+	background:rgba(196,203,183,1);
+}
+
+#group_3 {
+	top: 198px;
+	left: 1394px;
+	width: 670px;
+	height: 1470px;
+}
+
+#rectangle_7_ek2 {
+	top: 401px;
+	left: 105px;
+	width: 120px;
+	height: 853px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_8_ek2 {
+	top: 216px;
+	left: 243px;
+	width: 83px;
+	height: 1254px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_9_ek2 {
+	top: 103px;
+	left: 0px;
+	width: 87px;
+	height: 1273px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_4_ek2 {
+	top: 0px;
+	left: 449px;
+	width: 120px;
+	height: 1074px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_5_ek2 {
+	top: 216px;
+	left: 587px;
+	width: 83px;
+	height: 945px;
+	background:rgba(196,203,183,1);
+}
+
+
+#rectangle_6_ek2 {
+	top: 122px;
+	left: 344px;
+	width: 87px;
+	height: 945px;
+	background:rgba(196,203,183,1);
+}
+
+#arrow {
+	top: 231px;
+	left: 0px;
+	width: 2041.18px;
+	height: 863.08px;
+}
+
+#rectangle_17 {
+	top: 741px;
+	left: -2px;
+	width: 666.81px;
+	height: 52px;
+	
+	-ms-transform:rotate(-12.26deg);
+	-o-transform:rotate(-12.26deg);
+	-webkit-transform:rotate(-12.26deg);
+	-moz-transform:rotate(-12.26deg);
+	transform:rotate(-12.26deg);
+	background:rgba(88,129,87,1);
+}
+
+
+#rectangle_19 {
+	top: 127px;
+	left: 1596px;
+	width: 340.27px;
+	height: 52px;
+	
+	-ms-transform:rotate(-12.26deg);
+	-o-transform:rotate(-12.26deg);
+	-webkit-transform:rotate(-12.26deg);
+	-moz-transform:rotate(-12.26deg);
+	transform:rotate(-12.26deg);
+	background:rgba(88,129,87,1);
+}
+
+
+#rectangle_18 {
+	top: 623px;
+	left: 599px;
+	width: 50.35px;
+	height: 79.07px;
+	
+	-ms-transform:rotate(-12.12deg);
+	-o-transform:rotate(-12.12deg);
+	-webkit-transform:rotate(-12.12deg);
+	-moz-transform:rotate(-12.12deg);
+	transform:rotate(-12.12deg);
+	background:rgba(88,129,87,1);
+}
+
+
+#polygon_1 {
+	top: 35px;
+	left: 1839px;
+	width: 168px;
+	height: 168px;
+}
+
+
+#rectangle_19_ek1 {
+	top: 515px;
+	left: 580px;
+	width: 664.61px;
+	height: 52px;
+	
+	-ms-transform:rotate(-11.89deg);
+	-o-transform:rotate(-11.89deg);
+	-webkit-transform:rotate(-11.89deg);
+	-moz-transform:rotate(-11.89deg);
+	transform:rotate(-11.89deg);
+	background:rgba(88,129,87,1);
+}
+
+#going_up_segment {
+	top: 188px;
+	left: 1011px;
+	width: 662.65px;
+	height: 245px;
+}
+
+#rectangle_19_ek2 {
+	top: 123px;
+	left: -2px;
+	width: 666.81px;
+	height: 52px;
+	
+	-ms-transform:rotate(-12.26deg);
+	-o-transform:rotate(-12.26deg);
+	-webkit-transform:rotate(-12.26deg);
+	-moz-transform:rotate(-12.26deg);
+	transform:rotate(-12.26deg);
+	background:rgba(88,129,87,1);
+}
+
+
+#rectangle_20 {
+	top: 4px;
+	left: 599px;
+	width: 50.35px;
+	height: 79.07px;
+	
+	-ms-transform:rotate(-12.12deg);
+	-o-transform:rotate(-12.12deg);
+	-webkit-transform:rotate(-12.12deg);
+	-moz-transform:rotate(-12.12deg);
+	transform:rotate(-12.12deg);
+	background:rgba(88,129,87,1);
+}
+
+#user_interface {
+	top: 243px;
+	left: 636px;
+	width: 647.82px;
+	height: 657px;
+}
+
+#rectangle_16 {
+	top: 0px;
+	left: 42px;
+	width: 562px;
+	height: 126px;
+	-ms-border-radius: 12.38px;
+	-o-border-radius: 12.38px;
+	-moz-border-radius: 12.38px;
+	-webkit-border-radius: 12.38px;
+	border-radius: 12.38px;
+	background:rgba(209.83,209.83,209.83,1);
+}
+
+
+#rectangle_10 {
+	top: 101px;
+	left: 0px;
+	width: 647.82px;
+	height: 555.72px;
+	-ms-border-radius: 47.99px;
+	-o-border-radius: 47.99px;
+	-moz-border-radius: 47.99px;
+	-webkit-border-radius: 47.99px;
+	border-radius: 47.99px;
+	background:rgba(52,78,65,1);
+}
+
+#group_1 {
+	top: 370px;
+	left: 42px;
+	width: 563px;
+	height: 140px;
+}
+
+#rectangle_15 {
+	top: 0px;
+	left: 0px;
+	width: 563px;
+	height: 160px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(88,129,87,1);
+}
+
+
+#framer_ {
+	top: 26px;
+	left: 223px;
+	width: 281.33720207214px;
+	height: 97.337202072144px;
+	overflow: hidden;
+	font-family: Spartan;
+	font-size: 52.67px;
+	font-weight: bold;
+	text-align: left;
+	color:#588157;
+}
+
+
+#hyperlink_info, a {
+	top: 848px;
+	left: 787px;
+	width: 367px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Spartan;
+	font-size: 14px;
+	text-decoration: underline;
+	text-align: left;
+	line-height: 23px;
+	color:#FFFFFF;
+}
+
+#submit {
+	margin: 5px;
+	top: 777px;
+	left: 901px;
+	width: 127px;
+	height: 48.26px;
+}
+
+button {
+	top: 0px;
+	left: 0px;
+	width: 127px;
+	height: 48.26px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	line-height: 23px;
+	border-radius: 24.13px;
+	color:#344E41;
+	background:rgba(163,177,138,1);
+}
+
+#longer_enters {
+	top: 389px;
+	left: 677px;
+	width: 460px;
+	height: 109px;
+}
+#income_enter {
+	top: 66px;
+	left: 0px;
+	width: 460px;
+	height: 43px;
+}
+
+#what_s_your_name_ {
+	top: 0px;
+	left: 0px;
+	width: 431px;
+	height: 34.696926116943px;
+	font-family: Spartan;
+	font-size: 12.39px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 23px;
+	color:#FFFFFF;
+}
+
+#about_how_much_do_you_make_every_month_ {
+	top: 0px;
+	left: 0px;
+	width: 431px;
+	height: 34.696926116943px;
+	font-family: Spartan;
+	font-size: 12.39px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 23px;
+	color:#FFFFFF;
+}
+
+.question {
+	font-family: Spartan;
+	font-size: 12.39px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 23px;
+	margin-left: 10px;
+}
+
+
+#name_enter {
+	top: 0px;
+	left: 0px;
+	width: 226px;
+	height: 43px;
+}
+
+#small_logo {
+	top: 238px;
+	left: 703px;
+	width: 123px;
+	height: 123px;
+}
+
+#ellipse_1 {
+	top: 0px;
+	left: 0px;
+	width: 123px;
+	height: 123px;
+	-ms-border-radius: 61.5px / 61.5px;
+	-o-border-radius: 61.5px / 61.5px;
+	-moz-border-radius: 61.5px / 61.5px;
+	-webkit-border-radius: 61.5px / 61.5px;
+	border-radius: 61.5px / 61.5px;
+	background:rgba(225.25,225.25,225.25,1);
+}
+
+
+#f_ {
+	top: 30px;
+	left: 15px;
+	width: 112.24879440308px;
+	height: 146.11879440308px;
+	overflow: hidden;
+	font-family: Spartan;
+	font-size: 80.32px;
+	font-weight: bold;
+	text-align: center;
+	color:#588157;
+}
+
+#percent_section {
+	top: 519px;
+	left: 677px;
+	width: 548px;
+	height: 70px;
+}
+#percent_enters {
+	top: 0px;
+	left: 196px;
+	width: 352px;
+	height: 70px;
+}
+
+input {
+	top: 10px;
+	left: 0px;
+	width: 88px;
+	height: 43px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background:rgba(88,129,87,1);
+}
+
+#savings {
+	top: 10px;
+	left: 1px;
+	width: 50px;
+	height: 32.696926116943px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 23px;
+	color:#FFFFFF;
+}
+
+
+#_20_ {
+	top: 37px;
+	left: 24px;
+	width: 59px;
+	height: 34.696926116943px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 23px;
+	color:#FFFFFF;
+}
+
+#percent_enter {
+	top: 0px;
+	left: 213px;
+	width: 139px;
+	height: 70px;
+}
+
+
+#expenditures {
+	top: 10px;
+	left: 1px;
+	width: 137px;
+	height: 32.696926116943px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 23px;
+	color:#FFFFFF;
+}
+
+
+#_30_ {
+	top: 39px;
+	left: 47px;
+	width: 59px;
+	height: 28.696926116943px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 23px;
+	color:#FFFFFF;
+}
+
+#med_percent_enter {
+	top: 2px;
+	left: 106px;
+	height: 68px;
+}
+
+#medical {
+	top: 10px;
+	left: 1px;
+	width: 92px;
+	height: 32.696926116943px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+
+#__20_ {
+	top: 37px;
+	left: 18px;
+	width: 72px;
+	height: 34.696926116943px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#what_percent_of_your_income_do_you_want_to_set_aside_for___ {
+	top: 7px;
+	left: 0px;
+	width: 208.04036903381px;
+	height: 67.040369033813px;
+	font-family: Spartan;
+	font-size: 14.08px;
+	text-align: left;
+	line-height: 18.619047164917px;
+	color:#FFFFFF;
+}
+
+#big_logo {
+	top: 53px;
+	left: 77px;
+	width: 166px;
+	height: 166px;
+}
+
+#ellipse_2 {
+	top: 0px;
+	left: 0px;
+	width: 166px;
+	height: 166px;
+	-ms-border-radius: 83px / 83px;
+	-o-border-radius: 83px / 83px;
+	-moz-border-radius: 83px / 83px;
+	-webkit-border-radius: 83px / 83px;
+	border-radius: 83px / 83px;
+	background:rgba(206,204,204,1);
+}
+
+
+#ellipse_1_ek1 {
+	top: 14px;
+	left: 14px;
+	width: 137.33px;
+	height: 137.33px;
+	-ms-border-radius: 68.67px / 68.67px;
+	-o-border-radius: 68.67px / 68.67px;
+	-moz-border-radius: 68.67px / 68.67px;
+	-webkit-border-radius: 68.67px / 68.67px;
+	border-radius: 68.67px / 68.67px;
+	background:rgba(225.25,225.25,225.25,1);
+}
+
+
+#f__ek1 {
+	top: 47px;
+	left: 31px;
+	width: 125px;
+	height: 163.28854293823px;
+	overflow: hidden;
+	font-family: Spartan;
+	font-size: 89.68px;
+	font-weight: bold;
+	text-align: center;
+	color:#588157;
+}
+
+#report {
+	padding-top: 10px;
+}
+#report, #Title, #totreport, #medreport, #savreport, #expreport, #extreport {
+	font-family: Spartan;
+	padding-left: 10px;
+	font-size: 13.39px;
+	text-align: left;
+	line-height: 5px;
+	color:#FFFFFF;
+}
+
+#save_percent_enter {
+	top: 0px;
+	font-family: Spartan;
+	left: 7px;
+	width: 137px;
+	height: 32.696926116943px;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+#percent_enter {
+	top: 0px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+#med_percent_enter {
+	top: 0px;
+	font-family: Spartan;
+	font-size: 17.39px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#sav, #med {
+	max-width: 70px;
+}
+
+#exp {
+	max-width: 100px;
+}
